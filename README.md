@@ -10,7 +10,7 @@ GDpick is a color picker tool built on the Godot Engine, which allows you to eas
   * GDSCRIPT
   * CSS
   * More formats in future updates.
-* Export color pallet as a png image.
+* Export color pallette as a png image.
 
 ## License
 
